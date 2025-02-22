@@ -1,7 +1,3 @@
-#l1= [7,2,14,5]
-#l1.sort(revers=True)
-#print(l1)
-
 s1="this is a test"
 l1 = s1.split()
 count=0
