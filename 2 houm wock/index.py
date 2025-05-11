@@ -1,9 +1,3 @@
-'''
-presentd by: Keshet Avrahami
-305572737
-'''
-
-
 while True:
     option=input("Please enter an option")
     if option =="4":
